@@ -2,7 +2,7 @@
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently learning Flutter ...
 - 💞️ I’m looking to collaborate on Flutter...
-- 📫 You cant contact me through my email 
+- 📫 You can contact me through my email 
 Seherkanwal156@gmail.com
 
 <!---
