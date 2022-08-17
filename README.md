@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg)]
+![MasterHead](https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg)
 <h1 align="center">Hi 👋, I'm Seher Kanwal</h1>
 <h3 align="center">A passionate Girl about technology especially the Machine Learning and Deep Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
