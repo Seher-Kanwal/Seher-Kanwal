@@ -27,5 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seher-kanwal&" alt="seher-kanwal" /></p>
 
+## Awards and Badges:
+[![@seherkanwal1's Holopin board](https://holopin.me/seherkanwal1)](https://holopin.io/@seherkanwal1)
+
 ## My Contribution Graph
 ![snake gif](https://github.com/Seher-Kanwal/Seher-Kanwal/blob/output/github-contribution-grid-snake.gif)
