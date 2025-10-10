@@ -33,5 +33,4 @@
 ## Awards and Badges:
 [![@seherkanwal1's Holopin board](https://holopin.me/seherkanwal1)](https://holopin.io/@seherkanwal1)
 
-## My Contribution Graph
-![snake gif](https://github.com/Seher-Kanwal/Seher-Kanwal/blob/output/github-contribution-grid-snake.gif)
+
